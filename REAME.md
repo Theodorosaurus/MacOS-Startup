@@ -1,6 +1,6 @@
 # MacOS-Startup.sh Readme
 
-This is a script written in Shell, which allows a Mac user to create a *.plist file.
+This is a script written in Shell, which allows a Mac user to create a *.plist file.<br>
 That *.plist file will, in turn, schedule the program in question to run at MacOS' startup.
 
 ## How to use the script
