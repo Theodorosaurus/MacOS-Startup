@@ -7,11 +7,11 @@ That *.plist file will, in turn, schedule the program in question to run at MacO
 
 1. Download **MacOS-Startup.sh** script on your Mac's desktop.
 
-2. Lauch the Terminal [^1].
+2. Lauch the Terminal[^1].
 
 3. On Terminal type: **sudo** & hit the **Space key** on your keyboard.
 
-4. Drag n' drop the **MacOS-Startup.sh** file from your desktop to the Terminal [^2].
+4. Drag n' drop the **MacOS-Startup.sh** file from your desktop to the Terminal[^2].
 
 5. Hit the **Return/Enter key** on your keyboard.
 
@@ -21,7 +21,7 @@ That *.plist file will, in turn, schedule the program in question to run at MacO
 
 ## About
 
-- *This script will make Google Chrome to run at startup on www.example.com in incognito mode, and on a maximized window [^3]*
+- *This script will make Google Chrome to run at startup on www.example.com in incognito mode, and on a maximized window[^3]*
 
 - *Installation requires the MacOS-Startup.sh script to be run with sudo priviledges.*
 
