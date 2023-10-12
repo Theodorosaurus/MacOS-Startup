@@ -3,7 +3,7 @@
 i=$(logname)
 
 echo "?xml version=\"1.0\" encoding=\"UTF-8\"?>" > macos.program.startup.plist;
-echo "<!DOCTYPE plist PUBLIC \"-//Apple Computer//DTD PLIST 1.0//EN\" \"http://www.apple.com/DTDs/PropertyList-1.0.dtd\">" >> efood.goweb.startup.plist;
+echo "<!DOCTYPE plist PUBLIC \"-//Apple Computer//DTD PLIST 1.0//EN\" \"http://www.apple.com/DTDs/PropertyList-1.0.dtd\">" >> macos.program.startup.plist;
 echo "<plist version=\"1.0\">" >> macos.program.startup.plist;
 echo "<dict>" >> macos.program.startup.plist;
 echo "    <key>Label</key>" >> macos.program.startup.plist;
