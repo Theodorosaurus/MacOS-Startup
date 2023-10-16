@@ -35,4 +35,3 @@ echo "</plist>" >> macos.program.startup.plist;
 mv ./macos.program.startup.plist /Library/LaunchAgents/;
 chown root:wheel /Library/LaunchAgents/macos.program.startup.plist;
 launchctl load -F /Library/LaunchAgents/macos.program.startup.plist;
-rm -rf /Users/$i/Desktop/Startup-Install.sh;
