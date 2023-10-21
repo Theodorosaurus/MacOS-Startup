@@ -25,8 +25,6 @@ That *.plist file will, in turn, schedule the program in question to run at MacO
 
 - *Installation requires the MacOS-Startup.sh script to be run with sudo priviledges.*
 
-- *At the script's execution end, it will get self-deleted.*
-
 [^1]: On your keyboard hit **Command + Space** keys for **Spotlight**, and then type **Terminal** and hit the **Return/Enter** key on your keyboard.
 [^2]: If done correctly, it should look like this: **sudo MacOS-Startup.sh**
 [^3]: This is for demonstration reasons, as we can use any program with any of its supported arguments to run at startup.
