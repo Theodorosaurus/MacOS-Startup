@@ -7,7 +7,7 @@ echo "<!DOCTYPE plist PUBLIC \"-//Apple Computer//DTD PLIST 1.0//EN\" \"http://w
 echo "<plist version=\"1.0\">" >> macos.program.startup.plist;
 echo "<dict>" >> macos.program.startup.plist;
 echo "    <key>Label</key>" >> macos.program.startup.plist;
-echo "    <string>efood.goweb.startup</string>" >> macos.program.startup.plist;
+echo "    <string>web.app.startup</string>" >> macos.program.startup.plist;
 
 echo "    <key>OnDemand</key>" >> macos.program.startup.plist;
 echo "    <false/>" >> macos.program.startup.plist;
